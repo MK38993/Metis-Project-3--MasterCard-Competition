@@ -8,6 +8,8 @@ While MasterCard easily outstrips its main competitor, Visa, it faces rapidly-gr
 
 MasterCard is by no means stagnating, but is still looking to find more merchants, customers, and banks to expand its network.
 
+My proposed data science solution is to utilize MasterCard's proprietary datasets to pinpoint which locations/countries/business types/demographics/consumer purchase segments play the largest part in predicting its performance, as well how well marketing to different economic sectors (e.g. apparel, groceries, luxury, restaurants) can improve growth
+
 
 ### The project
 The goal of this project is to determine which factors affect MasterCard's key performance indicators such as card ownership, transaction volume, and overall earnings. The following outline details my progress towards conducting preliminary EDA.

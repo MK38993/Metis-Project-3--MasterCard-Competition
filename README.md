@@ -52,3 +52,4 @@ The dashboards showing how different states compare to each other for different 
 
 ## Communication
 In addition to the slide presentation, which can be found [here](https://docs.google.com/presentation/d/1wRh7ijjPt8EI46xX4Au0aZUUAuPR9FK39UN7HvDB1k4/edit?usp=sharing), the Tablaeu visualizations can be found above.
+[PDF form of slide deck](https://github.com/MK38993/Metis-Project-3--MasterCard-Competition/blob/main/Metis%20Project%203C_%20Visa%20vs.%20Mastercard.pdf)

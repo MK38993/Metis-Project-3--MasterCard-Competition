@@ -22,11 +22,6 @@ Measures of success:
 Technical: The model achieves a high r2 coefficient, and can be used to market to merchants likely to join MasterCard's network.
 Non-technical: MasterCard's growth accelerates. Growth can be defined in terms of merchants accepting their cards, consumers using their cards, or even the amount of money that passes through MasterCard's system.
 
-Assumptions:
-
-Risks:
-
-
 ## Data
 For my preliminary EDA, I picked multiple sources of data and combined them to gain more insight into state vs. national economies.
 My primary data source was a consumer spending dataset from data.gov, which provides near-daily consumer spending for several retail sectors in the states of CT, MA, NJ, NY, and RI, indexed to Jan 1 2020.

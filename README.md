@@ -26,7 +26,7 @@ Non-technical: MasterCard's growth accelerates. Growth can be defined in terms o
 For my preliminary EDA, I picked multiple sources of data and combined them to gain more insight into state vs. national economies.
 My primary data source was a consumer spending dataset from data.gov, which provides near-daily consumer spending for several retail sectors in the states of CT, MA, NJ, NY, and RI, indexed to Jan 1 2020.
 My secondary data source was a summary of retail sectors, nationwide, aggregated to provide monthly estimates of each sector and its subsets.
-Finally, I used press releases from MasterCard, Visa, CapitalOne, and PayPal to determine the growth in their payment volume over the past 8 business quarters.
+Finally, I used press releases from MasterCard, Visa, and PayPal to determine the growth in their payment volume over the past 8 business quarters.
 
 
 ## Algorithms

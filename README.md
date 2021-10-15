@@ -19,8 +19,8 @@ Build a regression algorithm that predicts the return on investment when marketi
 2. Transaction data - what demographic does the merchant serve, and how might this affect his/her view of credit cards?
 
 Measures of success:
-Technical: The model achieves a high r2 coefficient, and can be used to market to merchants likely to join MasterCard's network.
-Non-technical: MasterCard's growth accelerates. Growth can be defined in terms of merchants accepting their cards, consumers using their cards, or even the amount of money that passes through MasterCard's system.
+ - Non-technical: MasterCard's growth accelerates. Growth can be defined in terms of merchants accepting their cards, consumers using their cards, or even the amount of money that passes through MasterCard's system.
+ - Technical: The model achieves a high r2 coefficient, and can be used to market to merchants likely to join MasterCard's network.
 
 ## Data
 For my preliminary EDA, I picked multiple sources of data and combined them to gain more insight into state vs. national economies.
@@ -30,7 +30,7 @@ Finally, I used press releases from MasterCard, Visa, and PayPal to determine th
 
 
 ## Algorithms
-##### Cleaning/EDA
+#### Cleaning/EDA
 I used Google Sheets to clean, aggregate, and interpret data.
 
 Links to the Sheets workbooks can be found below.
@@ -38,10 +38,11 @@ Links to the Sheets workbooks can be found below.
 https://docs.google.com/spreadsheets/d/1vRaOhZIWY7D7Dmri9p_9iX0pG4vyQ2TLsnNy-Q5UC6g/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1x5SFdYWWykaKbzTvjw2F8wq6aT8igIE1ZAxMaOCO5Nc/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1YKP5DmGJFU70kJ1ExjoU6GN45gufYb4M_vV0VOEltOg/edit?usp=sharing
-##### Aggregation
+
+#### Aggregation
 For my primary dataset, I averaged growth/loss for each retail sector over each month using pivot tables. These tables are imported into Tablaeu.
 
-##### Visualization
+#### Visualization
 Links to the Tablaeu workbooks and dashboards can be found below:
 The dashboard showing the volatility of smaller states can be found [here](https://public.tableau.com/app/profile/matt.k1804/viz/Metis3MACompetition/RecessionRecovery?publish=yes).
 The dashboards showing how different states compare to each other for different retail sectors can be found [here](https://public.tableau.com/app/profile/matt.k1804/viz/Metis3MACompetition/RecessionRecovery?publish=yes).
